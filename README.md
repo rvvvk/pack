@@ -16,3 +16,5 @@ Enjoy
 4. Emissive RGB ore border
    1. Diamond Ore
    2. Ancient Debris
+5. Visual Mace 3D
+6. Water / Lava source block highlighter
