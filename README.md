@@ -14,13 +14,6 @@ Enjoy
 1. Minimal HUD, Totem of Undying
 2. Smooth font 32x
 3. Summer beds
-4. Emissive RGB ore border
-   1. Diamond Ore
-   2. Ancient Debris
-5. Visual Mace 3D
-6. Water / Lava source block highlighter
-7. Fusion (Connected Textures) Mod Support:
-   1. Fusion Connected Blocks
-   2. Fusion Connected Glass
-   3. Fusion Emissive Ores
-   4. Fusion Stacking Items
+4. Visual Mace 3D
+5. Water / Lava source finder
+6. Voob's shiny crown
