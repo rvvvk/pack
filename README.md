@@ -12,10 +12,15 @@ Enjoy
 
 ## 2. ➕ Feature list
 1. Minimal HUD, Totem of Undying
-2. Smooth font 32x, Hoffen's Minimal Armor
+2. Smooth font 32x
 3. Summer beds
 4. Emissive RGB ore border
    1. Diamond Ore
    2. Ancient Debris
 5. Visual Mace 3D
 6. Water / Lava source block highlighter
+7. Fusion (Connected Textures) Mod Support:
+   1. Fusion Connected Blocks
+   2. Fusion Connected Glass
+   3. Fusion Emissive Ores
+   4. Fusion Stacking Items
