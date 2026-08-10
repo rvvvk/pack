@@ -2,6 +2,7 @@
 - [1. ❔ How to use](#1--how-to-use)
 - [2. ➕ Feature list](#2--feature-list)
 
+<a href="https://modrinth.com/mod/fusion-connected-textures"><img alt="Fusion" width="200" src="https://raw.githubusercontent.com/CelestialAbyss/badges/refs/heads/main/fusion/requires/compact_vector.svg"></a>
 
 ## 1. ❔ How to use
 1. Download the [👻.zip](https://github.com/r7vv/pack/blob/main/%F0%9F%91%BB.zip) from the repo
@@ -19,3 +20,10 @@ Enjoy
 6. Water / Lava source finder
 7. Voob's shiny crown
 8. Catppucin (Mocha) GUI
+9. Fusion connection blocks
+
+
+
+***side note**: lunar client's item customizer module config below*
+![config](https://github.com/r7vv/pack/blob/main/misc/config.png)
+*(both hands)*
