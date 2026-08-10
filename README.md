@@ -18,3 +18,4 @@ Enjoy
 5. Visual Mace 3D
 6. Water / Lava source finder
 7. Voob's shiny crown
+8. Catppucin (Mocha) GUI
